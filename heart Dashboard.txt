@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+The Tableau dashboard provides a data-driven platform that supports various aspects of clinical decision-making and pattern recognition in healthcare. By offering visual insights into patient data, it aids in classification, prediction, and clustering, while also facilitating chain reasoning and anomaly detection—all of which are crucial for optimizing treatment, payment, and operations in healthcare.
+
+
+=======
+The Tableau dashboard provides a data-driven platform that supports various aspects of clinical decision-making and pattern recognition in healthcare. By offering visual insights into patient data, it aids in classification, prediction, and clustering, while also facilitating chain reasoning and anomaly detection—all of which are crucial for optimizing treatment, payment, and operations in healthcare.
+
+
+>>>>>>> 603b1b385cb5c053fb15fa1b65ffa6ee5a9f67ff
+https://public.tableau.com/app/profile/madhavi.kathula/viz/HeartDashboard_17115685800080/Story1?publish=yes
